@@ -1,0 +1,1107 @@
+trip_id,trip_time,timeframe,,origin,destination,payment_method,payment_amount
+1,00:40,0-1,0-1,Kolhapur,Amravati,UPI,571
+2,00:36,0-1,0-1,Nagpur,Aurangabad,UPI,434
+3,00:19,0-1,0-1,Aurangabad,Amravati,Credit Card,298
+4,00:04,0-1,0-1,Navi Mumbai,Amravati,Cash,1731
+5,00:13,0-1,0-1,Mumbai,Nagpur,UPI,613
+6,00:25,0-1,0-1,Aurangabad,Mumbai,Cash,1265
+7,00:12,0-1,0-1,Nagpur,Navi Mumbai,Credit Card,253
+8,00:26,0-1,0-1,Aurangabad,Kolhapur,UPI,826
+9,00:35,0-1,0-1,Navi Mumbai,Nashik,Cash,967
+10,00:12,0-1,0-1,Navi Mumbai,Thane,Google Pay,1951
+11,00:42,0-1,0-1,Amravati,Solapur,UPI,1410
+12,00:38,0-1,0-1,Nagpur,Navi Mumbai,Credit Card,1848
+13,00:07,0-1,0-1,Navi Mumbai,Kolhapur,Credit Card,425
+14,00:01,0-1,0-1,Pune,Navi Mumbai,UPI,1973
+15,00:44,0-1,0-1,Amravati,Solapur,UPI,1020
+16,00:14,0-1,0-1,Thane,Aurangabad,Cash,579
+17,00:39,0-1,0-1,Solapur,Nagpur,Cash,785
+18,00:34,0-1,0-1,Solapur,Mumbai,UPI,1199
+19,00:28,0-1,0-1,Pune,Solapur,UPI,1804
+20,00:54,0-1,0-1,Nagpur,Nashik,UPI,1485
+21,00:46,0-1,0-1,Kolhapur,Nashik,UPI,576
+22,00:21,0-1,0-1,Solapur,Solapur,Google Pay,1996
+23,00:27,0-1,0-1,Mumbai,Nashik,Cash,1522
+24,00:59,0-1,0-1,Mumbai,Aurangabad,Credit Card,777
+25,00:20,0-1,0-1,Mumbai,Mumbai,UPI,582
+26,00:59,0-1,0-1,Navi Mumbai,Mumbai,Cash,1521
+27,00:34,0-1,0-1,Aurangabad,Mumbai,Credit Card,962
+28,00:54,0-1,0-1,Aurangabad,Pune,Credit Card,1368
+29,00:44,0-1,0-1,Kolhapur,Amravati,Google Pay,482
+30,00:21,0-1,0-1,Pune,Aurangabad,Credit Card,520
+31,00:41,0-1,0-1,Mumbai,Nashik,Cash,1387
+32,00:30,0-1,0-1,Solapur,Nashik,UPI,803
+33,00:53,0-1,0-1,Pune,Thane,Cash,1889
+34,00:18,0-1,0-1,Solapur,Amravati,Google Pay,1402
+35,00:23,0-1,0-1,Pune,Pune,Google Pay,1861
+36,01:17,1-2,,Pune,Nagpur,Cash,1926
+37,01:06,1-2,,Navi Mumbai,Solapur,UPI,431
+38,01:07,1-2,,Aurangabad,Nashik,Credit Card,276
+39,01:15,1-2,,Pune,Navi Mumbai,Google Pay,1782
+40,01:59,1-2,,Nashik,Thane,Google Pay,1826
+41,01:30,1-2,,Kolhapur,Thane,UPI,328
+42,01:55,1-2,,Pune,Nagpur,Cash,977
+43,01:23,1-2,,Pune,Mumbai,UPI,911
+44,01:03,1-2,,Nagpur,Navi Mumbai,Cash,1227
+45,01:38,1-2,,Amravati,Thane,Cash,574
+46,01:59,1-2,,Amravati,Kolhapur,Google Pay,585
+47,01:56,1-2,,Nashik,Thane,Cash,942
+48,01:58,1-2,,Kolhapur,Nagpur,Cash,1381
+49,01:41,1-2,,Navi Mumbai,Mumbai,Cash,1824
+50,01:26,1-2,,Amravati,Amravati,Cash,1682
+51,01:24,1-2,,Mumbai,Nagpur,Cash,173
+52,01:13,1-2,,Aurangabad,Thane,Google Pay,424
+53,01:28,1-2,,Thane,Amravati,Cash,584
+54,01:43,1-2,,Aurangabad,Solapur,UPI,284
+55,01:01,1-2,,Nagpur,Thane,Google Pay,1826
+56,01:49,1-2,,Kolhapur,Amravati,Google Pay,574
+57,01:44,1-2,,Navi Mumbai,Pune,Google Pay,986
+58,01:54,1-2,,Nashik,Kolhapur,Cash,124
+59,01:30,1-2,,Nagpur,Nashik,UPI,1683
+60,01:08,1-2,,Solapur,Aurangabad,Google Pay,465
+61,01:05,1-2,,Kolhapur,Solapur,Credit Card,819
+62,01:11,1-2,,Nagpur,Thane,Google Pay,1975
+63,01:57,1-2,,Amravati,Nashik,UPI,1159
+64,01:32,1-2,,Nashik,Solapur,Credit Card,1226
+65,01:33,1-2,,Thane,Pune,Cash,275
+66,01:12,1-2,,Aurangabad,Solapur,Cash,1585
+67,01:58,1-2,,Aurangabad,Aurangabad,Cash,1130
+68,01:44,1-2,,Navi Mumbai,Mumbai,Google Pay,356
+69,01:32,1-2,,Nagpur,Amravati,UPI,115
+70,01:15,1-2,,Aurangabad,Nagpur,Cash,641
+71,01:07,1-2,,Solapur,Aurangabad,Google Pay,581
+72,02:21,2-3,,Kolhapur,Solapur,Cash,745
+73,02:10,2-3,,Solapur,Kolhapur,Google Pay,737
+74,02:26,2-3,,Pune,Mumbai,Credit Card,1698
+75,02:25,2-3,,Solapur,Thane,UPI,1605
+76,02:31,2-3,,Amravati,Thane,Cash,1753
+77,02:27,2-3,,Nashik,Thane,Cash,1257
+78,02:41,2-3,,Navi Mumbai,Nashik,Google Pay,723
+79,02:19,2-3,,Thane,Mumbai,Cash,1099
+80,02:08,2-3,,Kolhapur,Solapur,Cash,291
+81,02:51,2-3,,Amravati,Nashik,UPI,1365
+82,02:55,2-3,,Thane,Thane,UPI,1661
+83,02:24,2-3,,Thane,Navi Mumbai,Google Pay,1954
+84,02:06,2-3,,Kolhapur,Kolhapur,Cash,289
+85,02:30,2-3,,Thane,Nagpur,UPI,1971
+86,02:07,2-3,,Pune,Amravati,UPI,1657
+87,02:16,2-3,,Nagpur,Pune,Cash,1807
+88,02:17,2-3,,Nagpur,Navi Mumbai,Google Pay,1641
+89,02:38,2-3,,Mumbai,Mumbai,Credit Card,1180
+90,02:52,2-3,,Thane,Nashik,Cash,1855
+91,02:58,2-3,,Nagpur,Kolhapur,Google Pay,781
+92,02:19,2-3,,Amravati,Mumbai,Google Pay,226
+93,02:53,2-3,,Thane,Pune,Cash,1188
+94,02:35,2-3,,Nashik,Nagpur,Cash,1744
+95,02:12,2-3,,Solapur,Nagpur,Cash,925
+96,02:18,2-3,,Solapur,Nashik,Cash,1141
+97,02:22,2-3,,Navi Mumbai,Nagpur,Credit Card,431
+98,02:39,2-3,,Nagpur,Navi Mumbai,UPI,1682
+99,02:38,2-3,,Kolhapur,Amravati,Credit Card,1795
+100,02:37,2-3,,Solapur,Kolhapur,Cash,329
+101,02:41,2-3,,Mumbai,Thane,UPI,634
+102,02:27,2-3,,Kolhapur,Nashik,Cash,1703
+103,02:49,2-3,,Mumbai,Thane,Cash,1300
+104,02:57,2-3,,Pune,Aurangabad,Cash,1764
+105,02:19,2-3,,Pune,Nashik,Cash,388
+106,02:27,2-3,,Nashik,Kolhapur,Cash,1610
+107,03:55,3-4,,Kolhapur,Pune,Cash,886
+108,03:17,3-4,,Mumbai,Navi Mumbai,Cash,682
+109,03:08,3-4,,Mumbai,Nashik,Google Pay,248
+110,03:46,3-4,,Nashik,Nashik,Credit Card,272
+111,03:44,3-4,,Thane,Aurangabad,Cash,689
+112,03:54,3-4,,Amravati,Nagpur,Cash,1594
+113,03:40,3-4,,Thane,Nagpur,Google Pay,1407
+114,03:40,3-4,,Solapur,Amravati,Cash,1968
+115,03:35,3-4,,Pune,Kolhapur,Google Pay,394
+116,03:18,3-4,,Amravati,Nagpur,Credit Card,1943
+117,03:41,3-4,,Solapur,Thane,Cash,1325
+118,03:31,3-4,,Nagpur,Kolhapur,Credit Card,1734
+119,03:28,3-4,,Kolhapur,Thane,Cash,145
+120,03:55,3-4,,Solapur,Navi Mumbai,Credit Card,1288
+121,03:21,3-4,,Navi Mumbai,Thane,UPI,157
+122,03:38,3-4,,Mumbai,Kolhapur,Google Pay,1766
+123,03:59,3-4,,Thane,Aurangabad,Cash,1198
+124,03:15,3-4,,Amravati,Pune,UPI,256
+125,03:57,3-4,,Mumbai,Mumbai,Google Pay,912
+126,03:25,3-4,,Solapur,Mumbai,UPI,685
+127,03:23,3-4,,Kolhapur,Pune,Credit Card,1472
+128,03:51,3-4,,Thane,Nashik,Cash,1772
+129,03:49,3-4,,Pune,Mumbai,Cash,358
+130,03:30,3-4,,Pune,Solapur,Credit Card,1311
+131,03:47,3-4,,Amravati,Thane,UPI,1172
+132,03:40,3-4,,Aurangabad,Navi Mumbai,Cash,903
+133,03:35,3-4,,Aurangabad,Aurangabad,Cash,156
+134,03:19,3-4,,Solapur,Navi Mumbai,Credit Card,324
+135,03:06,3-4,,Aurangabad,Navi Mumbai,Cash,1841
+136,03:07,3-4,,Kolhapur,Aurangabad,Cash,981
+137,03:22,3-4,,Nagpur,Pune,UPI,1345
+138,03:49,3-4,,Mumbai,Thane,Google Pay,746
+139,03:53,3-4,,Aurangabad,Thane,Google Pay,870
+140,03:25,3-4,,Mumbai,Navi Mumbai,Cash,1949
+141,03:01,3-4,,Solapur,Nashik,UPI,1016
+142,03:13,3-4,,Mumbai,Mumbai,Cash,1276
+143,04:34,4-5,,Nagpur,Mumbai,Credit Card,934
+144,04:34,4-5,,Nashik,Solapur,Credit Card,158
+145,04:02,4-5,,Thane,Pune,UPI,1015
+146,04:26,4-5,,Nashik,Mumbai,Google Pay,1634
+147,04:37,4-5,,Amravati,Navi Mumbai,Credit Card,482
+148,04:10,4-5,,Thane,Nagpur,UPI,393
+149,04:17,4-5,,Solapur,Mumbai,Google Pay,102
+150,04:28,4-5,,Solapur,Pune,Cash,1426
+151,04:22,4-5,,Navi Mumbai,Solapur,Google Pay,1900
+152,04:14,4-5,,Nagpur,Navi Mumbai,UPI,991
+153,04:35,4-5,,Kolhapur,Nagpur,Cash,1775
+154,04:29,4-5,,Nagpur,Solapur,Credit Card,631
+155,04:51,4-5,,Kolhapur,Pune,Cash,524
+156,04:49,4-5,,Amravati,Kolhapur,Google Pay,706
+157,04:03,4-5,,Amravati,Nashik,Cash,118
+158,04:45,4-5,,Aurangabad,Solapur,Google Pay,1057
+159,04:08,4-5,,Thane,Mumbai,UPI,1016
+160,04:39,4-5,,Nagpur,Nagpur,Google Pay,811
+161,04:47,4-5,,Solapur,Thane,UPI,211
+162,04:15,4-5,,Amravati,Kolhapur,UPI,1382
+163,04:16,4-5,,Aurangabad,Nagpur,UPI,512
+164,04:58,4-5,,Aurangabad,Nashik,Cash,156
+165,04:11,4-5,,Thane,Aurangabad,Google Pay,753
+166,04:56,4-5,,Amravati,Aurangabad,Cash,1870
+167,04:32,4-5,,Amravati,Aurangabad,Cash,556
+168,04:55,4-5,,Nashik,Mumbai,Cash,277
+169,04:19,4-5,,Pune,Kolhapur,Google Pay,847
+170,04:48,4-5,,Aurangabad,Navi Mumbai,Credit Card,184
+171,04:48,4-5,,Solapur,Nashik,Credit Card,1419
+172,04:37,4-5,,Mumbai,Aurangabad,Google Pay,928
+173,04:13,4-5,,Thane,Nashik,Credit Card,1342
+174,04:11,4-5,,Nagpur,Solapur,Cash,430
+175,04:23,4-5,,Nashik,Nashik,Google Pay,304
+176,04:14,4-5,,Nashik,Amravati,Cash,1116
+177,04:21,4-5,,Amravati,Thane,Credit Card,1504
+178,05:05,5-6,,Mumbai,Navi Mumbai,Cash,1007
+179,05:45,5-6,,Thane,Thane,Cash,221
+180,05:15,5-6,,Solapur,Solapur,Cash,1846
+181,05:20,5-6,,Mumbai,Mumbai,Credit Card,953
+182,05:26,5-6,,Nagpur,Nagpur,Credit Card,1424
+183,05:55,5-6,,Mumbai,Nagpur,Cash,139
+184,05:20,5-6,,Nagpur,Kolhapur,Google Pay,275
+185,05:34,5-6,,Kolhapur,Aurangabad,Cash,102
+186,05:18,5-6,,Navi Mumbai,Thane,UPI,1676
+187,05:27,5-6,,Thane,Mumbai,Cash,222
+188,05:10,5-6,,Amravati,Mumbai,Google Pay,1760
+189,05:58,5-6,,Pune,Kolhapur,UPI,834
+190,05:03,5-6,,Mumbai,Pune,Credit Card,156
+191,05:29,5-6,,Solapur,Kolhapur,UPI,1855
+192,05:11,5-6,,Nagpur,Solapur,Credit Card,1443
+193,05:31,5-6,,Aurangabad,Amravati,UPI,1410
+194,05:14,5-6,,Pune,Aurangabad,Credit Card,1022
+195,05:33,5-6,,Thane,Thane,Google Pay,1780
+196,05:42,5-6,,Pune,Pune,Cash,290
+197,05:51,5-6,,Pune,Nagpur,Cash,1193
+198,05:34,5-6,,Kolhapur,Nagpur,Credit Card,170
+199,05:28,5-6,,Mumbai,Nagpur,UPI,666
+200,05:12,5-6,,Amravati,Pune,Cash,172
+201,05:54,5-6,,Kolhapur,Mumbai,Credit Card,537
+202,05:23,5-6,,Solapur,Amravati,Cash,241
+203,05:26,5-6,,Nagpur,Nagpur,Credit Card,726
+204,05:07,5-6,,Amravati,Kolhapur,UPI,1342
+205,05:29,5-6,,Solapur,Nagpur,UPI,313
+206,05:42,5-6,,Aurangabad,Kolhapur,Cash,383
+207,05:21,5-6,,Amravati,Nashik,Cash,919
+208,05:13,5-6,,Nagpur,Thane,Google Pay,1808
+209,05:26,5-6,,Amravati,Pune,Google Pay,268
+210,05:26,5-6,,Kolhapur,Aurangabad,Cash,866
+211,05:56,5-6,,Amravati,Solapur,Cash,1472
+212,05:36,5-6,,Amravati,Pune,Credit Card,221
+213,05:50,5-6,,Kolhapur,Solapur,Cash,1244
+214,06:32,6-7,,Pune,Amravati,Google Pay,1546
+215,06:38,6-7,,Mumbai,Nagpur,Google Pay,911
+216,06:23,6-7,,Aurangabad,Solapur,Google Pay,1841
+217,06:24,6-7,,Nashik,Nashik,Credit Card,836
+218,06:26,6-7,,Thane,Aurangabad,UPI,339
+219,06:28,6-7,,Navi Mumbai,Mumbai,Cash,1188
+220,06:31,6-7,,Solapur,Solapur,Google Pay,800
+221,06:47,6-7,,Navi Mumbai,Amravati,Cash,413
+222,06:46,6-7,,Thane,Kolhapur,Google Pay,1651
+223,06:06,6-7,,Amravati,Mumbai,Cash,721
+224,06:02,6-7,,Kolhapur,Pune,Cash,1732
+225,06:45,6-7,,Nashik,Nagpur,Credit Card,823
+226,06:35,6-7,,Nagpur,Kolhapur,Credit Card,792
+227,06:22,6-7,,Kolhapur,Pune,Cash,454
+228,06:38,6-7,,Pune,Amravati,UPI,1123
+229,06:58,6-7,,Amravati,Thane,Cash,717
+230,06:03,6-7,,Navi Mumbai,Thane,Google Pay,1591
+231,06:42,6-7,,Amravati,Nashik,Cash,464
+232,06:26,6-7,,Aurangabad,Pune,Cash,845
+233,06:25,6-7,,Nashik,Navi Mumbai,Google Pay,970
+234,06:45,6-7,,Pune,Nagpur,Cash,663
+235,06:01,6-7,,Navi Mumbai,Mumbai,Cash,1205
+236,06:17,6-7,,Aurangabad,Amravati,UPI,1301
+237,06:36,6-7,,Navi Mumbai,Aurangabad,UPI,1286
+238,06:05,6-7,,Nagpur,Solapur,Credit Card,981
+239,06:20,6-7,,Amravati,Solapur,Credit Card,1121
+240,06:16,6-7,,Navi Mumbai,Solapur,UPI,1720
+241,06:09,6-7,,Aurangabad,Aurangabad,Credit Card,651
+242,06:31,6-7,,Navi Mumbai,Aurangabad,Google Pay,539
+243,06:05,6-7,,Navi Mumbai,Kolhapur,Credit Card,1346
+244,06:40,6-7,,Thane,Mumbai,Credit Card,1563
+245,06:01,6-7,,Pune,Amravati,UPI,536
+246,06:31,6-7,,Kolhapur,Solapur,Cash,787
+247,06:10,6-7,,Mumbai,Aurangabad,Google Pay,678
+248,06:31,6-7,,Mumbai,Amravati,UPI,999
+249,06:44,6-7,,Nagpur,Thane,Cash,1668
+250,06:14,6-7,,Aurangabad,Nagpur,UPI,1906
+251,06:34,6-7,,Nagpur,Amravati,Cash,743
+252,06:18,6-7,,Mumbai,Kolhapur,Google Pay,115
+253,06:59,6-7,,Nagpur,Navi Mumbai,UPI,1915
+254,06:15,6-7,,Nashik,Thane,UPI,1995
+255,06:54,6-7,,Mumbai,Pune,Cash,939
+256,06:34,6-7,,Thane,Thane,Google Pay,1164
+257,06:28,6-7,,Pune,Thane,UPI,1576
+258,06:43,6-7,,Nagpur,Nashik,UPI,1598
+259,06:54,6-7,,Thane,Solapur,Google Pay,307
+260,06:49,6-7,,Amravati,Aurangabad,Cash,1247
+261,06:03,6-7,,Nagpur,Mumbai,Cash,1891
+262,06:55,6-7,,Amravati,Navi Mumbai,Cash,1356
+263,06:22,6-7,,Thane,Aurangabad,Cash,1749
+264,06:58,6-7,,Nagpur,Nagpur,Cash,1662
+265,06:27,6-7,,Thane,Solapur,UPI,1947
+266,06:05,6-7,,Navi Mumbai,Nashik,Cash,1597
+267,06:05,6-7,,Thane,Aurangabad,Credit Card,1581
+268,06:41,6-7,,Navi Mumbai,Pune,UPI,1262
+269,06:08,6-7,,Navi Mumbai,Nagpur,Cash,1938
+270,06:12,6-7,,Kolhapur,Solapur,Google Pay,1098
+271,06:17,6-7,,Mumbai,Amravati,Cash,941
+272,06:10,6-7,,Pune,Nagpur,Google Pay,1245
+273,06:09,6-7,,Aurangabad,Nagpur,Cash,1683
+274,06:25,6-7,,Pune,Mumbai,UPI,190
+275,06:57,6-7,,Nagpur,Aurangabad,Cash,240
+276,06:00,6-7,,Kolhapur,Solapur,Cash,1125
+277,06:48,6-7,,Mumbai,Nagpur,UPI,1016
+278,06:19,6-7,,Kolhapur,Thane,UPI,113
+279,07:09,7-8,,Kolhapur,Kolhapur,Credit Card,1706
+280,07:34,7-8,,Nagpur,Nagpur,UPI,1689
+281,07:59,7-8,,Kolhapur,Amravati,Google Pay,1273
+282,07:49,7-8,,Solapur,Amravati,Credit Card,1181
+283,07:29,7-8,,Mumbai,Pune,Credit Card,762
+284,07:57,7-8,,Thane,Amravati,Google Pay,1664
+285,07:59,7-8,,Nashik,Navi Mumbai,Cash,1863
+286,07:48,7-8,,Mumbai,Pune,Google Pay,445
+287,07:16,7-8,,Nagpur,Nagpur,Cash,772
+288,07:36,7-8,,Nagpur,Thane,Cash,103
+289,07:33,7-8,,Nashik,Nashik,Credit Card,1735
+290,07:58,7-8,,Amravati,Navi Mumbai,Cash,302
+291,07:32,7-8,,Amravati,Nagpur,Cash,1740
+292,07:37,7-8,,Nagpur,Pune,Google Pay,304
+293,07:58,7-8,,Nashik,Pune,Google Pay,1579
+294,07:16,7-8,,Pune,Thane,Cash,283
+295,07:34,7-8,,Nagpur,Amravati,UPI,1639
+296,07:39,7-8,,Mumbai,Thane,Cash,621
+297,07:06,7-8,,Solapur,Nagpur,Cash,816
+298,07:23,7-8,,Navi Mumbai,Thane,Cash,1871
+299,07:03,7-8,,Nagpur,Mumbai,UPI,1665
+300,07:18,7-8,,Navi Mumbai,Aurangabad,UPI,595
+301,07:17,7-8,,Thane,Mumbai,UPI,820
+302,07:14,7-8,,Thane,Amravati,UPI,159
+303,07:12,7-8,,Pune,Mumbai,Credit Card,777
+304,07:57,7-8,,Solapur,Mumbai,Cash,1713
+305,07:55,7-8,,Nagpur,Amravati,Cash,1720
+306,07:29,7-8,,Kolhapur,Amravati,Credit Card,1137
+307,07:19,7-8,,Nashik,Thane,UPI,1585
+308,07:32,7-8,,Thane,Nashik,Google Pay,1211
+309,07:50,7-8,,Pune,Solapur,UPI,1672
+310,07:30,7-8,,Thane,Mumbai,UPI,1674
+311,07:40,7-8,,Pune,Aurangabad,Cash,215
+312,07:28,7-8,,Pune,Nashik,Cash,1076
+313,07:50,7-8,,Thane,Navi Mumbai,Credit Card,1178
+314,08:03,8-9,,Mumbai,Solapur,Cash,1111
+315,08:23,8-9,,Kolhapur,Kolhapur,Cash,611
+316,08:40,8-9,,Navi Mumbai,Pune,UPI,1512
+317,08:05,8-9,,Amravati,Aurangabad,Cash,1816
+318,08:08,8-9,,Solapur,Amravati,Cash,210
+319,08:49,8-9,,Navi Mumbai,Nagpur,Cash,405
+320,08:48,8-9,,Amravati,Aurangabad,Credit Card,1133
+321,08:47,8-9,,Navi Mumbai,Nashik,Google Pay,1357
+322,08:41,8-9,,Pune,Amravati,Credit Card,1521
+323,08:14,8-9,,Nashik,Nagpur,Credit Card,910
+324,08:24,8-9,,Mumbai,Kolhapur,Cash,1164
+325,08:56,8-9,,Navi Mumbai,Mumbai,Cash,614
+326,08:19,8-9,,Thane,Pune,Google Pay,680
+327,08:27,8-9,,Mumbai,Aurangabad,Cash,1837
+328,08:29,8-9,,Kolhapur,Mumbai,Cash,481
+329,08:58,8-9,,Navi Mumbai,Nashik,Cash,1229
+330,08:09,8-9,,Pune,Kolhapur,Cash,1137
+331,08:45,8-9,,Nashik,Nagpur,Cash,1076
+332,08:51,8-9,,Aurangabad,Navi Mumbai,Cash,1344
+333,08:30,8-9,,Nashik,Nashik,Cash,807
+334,08:12,8-9,,Solapur,Kolhapur,Cash,614
+335,08:22,8-9,,Amravati,Thane,UPI,673
+336,08:08,8-9,,Navi Mumbai,Mumbai,Cash,489
+337,08:33,8-9,,Solapur,Thane,Cash,609
+338,08:10,8-9,,Mumbai,Nagpur,Google Pay,982
+339,08:05,8-9,,Mumbai,Mumbai,UPI,1522
+340,08:00,8-9,,Amravati,Nagpur,Cash,834
+341,08:20,8-9,,Solapur,Nashik,Google Pay,612
+342,08:30,8-9,,Thane,Mumbai,Cash,1999
+343,08:36,8-9,,Amravati,Pune,Cash,823
+344,08:20,8-9,,Nashik,Solapur,Cash,625
+345,08:30,8-9,,Nagpur,Amravati,UPI,408
+346,08:15,8-9,,Nagpur,Pune,Credit Card,973
+347,08:23,8-9,,Thane,Nashik,Cash,356
+348,08:10,8-9,,Nashik,Amravati,Credit Card,336
+349,08:16,8-9,,Solapur,Amravati,Google Pay,1813
+350,09:49,9-10,,Mumbai,Navi Mumbai,Cash,1023
+351,09:32,9-10,,Nashik,Amravati,Credit Card,177
+352,09:48,9-10,,Aurangabad,Mumbai,Cash,1405
+353,09:37,9-10,,Amravati,Amravati,Google Pay,1622
+354,09:16,9-10,,Nashik,Nagpur,Credit Card,1237
+355,09:25,9-10,,Kolhapur,Nagpur,Cash,405
+356,09:01,9-10,,Nagpur,Amravati,Google Pay,527
+357,09:38,9-10,,Aurangabad,Kolhapur,UPI,533
+358,09:49,9-10,,Nashik,Kolhapur,Cash,374
+359,09:12,9-10,,Nashik,Kolhapur,Credit Card,106
+360,09:21,9-10,,Solapur,Solapur,UPI,1417
+361,09:50,9-10,,Thane,Nagpur,Cash,1315
+362,09:55,9-10,,Kolhapur,Nagpur,Cash,747
+363,09:54,9-10,,Navi Mumbai,Kolhapur,Cash,613
+364,09:56,9-10,,Nashik,Nagpur,Credit Card,1223
+365,09:16,9-10,,Pune,Aurangabad,Cash,1393
+366,09:38,9-10,,Kolhapur,Thane,Credit Card,1744
+367,09:19,9-10,,Aurangabad,Aurangabad,Cash,1865
+368,09:33,9-10,,Navi Mumbai,Pune,Cash,634
+369,09:44,9-10,,Navi Mumbai,Amravati,Cash,490
+370,09:48,9-10,,Navi Mumbai,Thane,Cash,594
+371,09:48,9-10,,Aurangabad,Amravati,UPI,1752
+372,09:58,9-10,,Pune,Aurangabad,UPI,556
+373,09:57,9-10,,Navi Mumbai,Amravati,Cash,802
+374,09:18,9-10,,Pune,Solapur,Google Pay,1646
+375,09:00,9-10,,Amravati,Navi Mumbai,Google Pay,1324
+376,09:27,9-10,,Pune,Navi Mumbai,Google Pay,1804
+377,09:28,9-10,,Nashik,Amravati,Cash,207
+378,09:44,9-10,,Nagpur,Amravati,Cash,1321
+379,09:57,9-10,,Mumbai,Pune,Google Pay,259
+380,09:36,9-10,,Aurangabad,Kolhapur,Cash,792
+381,09:22,9-10,,Kolhapur,Pune,Cash,845
+382,09:37,9-10,,Thane,Thane,UPI,830
+383,09:37,9-10,,Nagpur,Thane,UPI,1901
+384,09:58,9-10,,Solapur,Mumbai,UPI,283
+385,09:11,9-10,,Nashik,Nashik,Cash,643
+386,09:12,9-10,,Aurangabad,Amravati,UPI,1369
+387,09:59,9-10,,Amravati,Pune,Cash,586
+388,09:49,9-10,,Solapur,Nashik,Google Pay,543
+389,09:34,9-10,,Kolhapur,Amravati,Credit Card,123
+390,09:10,9-10,,Aurangabad,Pune,Cash,576
+391,09:06,9-10,,Pune,Amravati,Cash,222
+392,09:22,9-10,,Kolhapur,Aurangabad,Cash,803
+393,09:16,9-10,,Navi Mumbai,Pune,Google Pay,1119
+394,09:00,9-10,,Amravati,Kolhapur,UPI,569
+395,09:48,9-10,,Thane,Aurangabad,Credit Card,970
+396,09:53,9-10,,Nashik,Mumbai,Credit Card,861
+397,09:21,9-10,,Nashik,Amravati,Credit Card,1885
+398,09:19,9-10,,Aurangabad,Amravati,Cash,619
+399,09:08,9-10,,Aurangabad,Amravati,UPI,852
+400,09:03,9-10,,Mumbai,Aurangabad,Credit Card,1482
+401,09:57,9-10,,Kolhapur,Thane,UPI,593
+402,09:17,9-10,,Thane,Nagpur,Credit Card,143
+403,09:51,9-10,,Solapur,Solapur,Cash,869
+404,09:52,9-10,,Solapur,Kolhapur,Cash,222
+405,09:20,9-10,,Nagpur,Aurangabad,Cash,490
+406,09:33,9-10,,Solapur,Mumbai,Cash,1722
+407,09:35,9-10,,Nashik,Pune,Google Pay,1242
+408,09:19,9-10,,Solapur,Thane,Cash,686
+409,09:56,9-10,,Thane,Nashik,Cash,916
+410,09:11,9-10,,Nagpur,Solapur,Cash,465
+411,09:06,9-10,,Mumbai,Thane,Google Pay,643
+412,09:49,9-10,,Navi Mumbai,Nagpur,Credit Card,580
+413,09:24,9-10,,Solapur,Pune,Google Pay,923
+414,09:40,9-10,,Nashik,Thane,Cash,976
+415,09:29,9-10,,Nashik,Aurangabad,Cash,1691
+416,09:22,9-10,,Nagpur,Amravati,UPI,222
+417,09:04,9-10,,Kolhapur,Aurangabad,Credit Card,237
+418,09:47,9-10,,Pune,Thane,Credit Card,1962
+419,09:18,9-10,,Navi Mumbai,Amravati,Cash,1493
+420,09:29,9-10,,Mumbai,Mumbai,Cash,1313
+421,09:29,9-10,,Navi Mumbai,Nagpur,Cash,1227
+422,09:52,9-10,,Aurangabad,Aurangabad,Cash,1531
+423,09:59,9-10,,Navi Mumbai,Kolhapur,UPI,1355
+424,09:05,9-10,,Pune,Amravati,UPI,754
+425,09:21,9-10,,Nashik,Navi Mumbai,UPI,1454
+426,09:39,9-10,,Solapur,Thane,Google Pay,578
+427,09:14,9-10,,Amravati,Nashik,Google Pay,125
+428,10:00,10-11,,Pune,Mumbai,Credit Card,1250
+429,10:23,10-11,,Aurangabad,Nashik,Credit Card,1080
+430,10:34,10-11,,Aurangabad,Nashik,Credit Card,1194
+431,10:53,10-11,,Nagpur,Mumbai,UPI,996
+432,10:55,10-11,,Aurangabad,Pune,Cash,365
+433,10:33,10-11,,Navi Mumbai,Navi Mumbai,Cash,1374
+434,10:15,10-11,,Kolhapur,Pune,Google Pay,1616
+435,10:44,10-11,,Mumbai,Solapur,Google Pay,719
+436,10:33,10-11,,Solapur,Solapur,Cash,1603
+437,10:08,10-11,,Aurangabad,Pune,Cash,774
+438,10:24,10-11,,Mumbai,Amravati,Google Pay,1767
+439,10:13,10-11,,Navi Mumbai,Amravati,UPI,1015
+440,10:27,10-11,,Mumbai,Nashik,Google Pay,1799
+441,10:06,10-11,,Navi Mumbai,Navi Mumbai,Cash,1445
+442,10:29,10-11,,Pune,Solapur,Credit Card,654
+443,10:47,10-11,,Mumbai,Thane,Credit Card,1881
+444,10:24,10-11,,Pune,Kolhapur,Cash,681
+445,10:41,10-11,,Thane,Solapur,Google Pay,210
+446,10:48,10-11,,Solapur,Solapur,Cash,1245
+447,10:42,10-11,,Nagpur,Kolhapur,Cash,1522
+448,10:17,10-11,,Pune,Amravati,Cash,931
+449,10:15,10-11,,Nagpur,Mumbai,Cash,907
+450,10:31,10-11,,Pune,Nashik,Google Pay,1394
+451,10:10,10-11,,Solapur,Aurangabad,Credit Card,573
+452,10:35,10-11,,Nashik,Aurangabad,Cash,1528
+453,10:42,10-11,,Nagpur,Solapur,Cash,172
+454,10:03,10-11,,Nagpur,Navi Mumbai,Cash,965
+455,10:59,10-11,,Thane,Aurangabad,Cash,1431
+456,10:04,10-11,,Nashik,Pune,Cash,502
+457,10:30,10-11,,Thane,Nagpur,Cash,1152
+458,10:25,10-11,,Kolhapur,Nashik,Cash,1793
+459,10:33,10-11,,Pune,Nagpur,UPI,560
+460,10:28,10-11,,Thane,Nashik,Credit Card,1344
+461,10:33,10-11,,Solapur,Pune,Cash,917
+462,10:09,10-11,,Thane,Solapur,Cash,1865
+463,10:47,10-11,,Nagpur,Solapur,Cash,1646
+464,10:19,10-11,,Nashik,Nashik,Cash,162
+465,10:49,10-11,,Solapur,Thane,UPI,1531
+466,10:35,10-11,,Nagpur,Aurangabad,Cash,671
+467,10:34,10-11,,Solapur,Pune,Credit Card,1482
+468,10:06,10-11,,Thane,Kolhapur,Credit Card,464
+469,10:24,10-11,,Pune,Solapur,Cash,1978
+470,10:42,10-11,,Nagpur,Nagpur,Cash,1621
+471,10:53,10-11,,Amravati,Nagpur,UPI,1965
+472,10:22,10-11,,Aurangabad,Pune,UPI,1110
+473,10:38,10-11,,Amravati,Nashik,Google Pay,731
+474,10:50,10-11,,Thane,Nashik,Cash,1713
+475,10:12,10-11,,Solapur,Aurangabad,UPI,1652
+476,10:33,10-11,,Kolhapur,Kolhapur,Google Pay,1969
+477,10:39,10-11,,Mumbai,Solapur,Google Pay,1898
+478,10:07,10-11,,Thane,Aurangabad,Cash,1673
+479,10:53,10-11,,Navi Mumbai,Nashik,Cash,1307
+480,10:10,10-11,,Pune,Mumbai,Cash,1129
+481,10:32,10-11,,Navi Mumbai,Amravati,Cash,1158
+482,10:45,10-11,,Nagpur,Solapur,UPI,172
+483,10:47,10-11,,Kolhapur,Nagpur,UPI,1031
+484,10:09,10-11,,Solapur,Nashik,UPI,739
+485,10:04,10-11,,Aurangabad,Nagpur,Credit Card,940
+486,10:36,10-11,,Amravati,Solapur,Google Pay,1101
+487,10:45,10-11,,Navi Mumbai,Thane,Credit Card,705
+488,10:49,10-11,,Nashik,Navi Mumbai,Google Pay,240
+489,10:40,10-11,,Mumbai,Kolhapur,UPI,170
+490,10:01,10-11,,Solapur,Navi Mumbai,Cash,1079
+491,10:07,10-11,,Solapur,Amravati,Google Pay,1791
+492,10:58,10-11,,Amravati,Navi Mumbai,Credit Card,1307
+493,10:59,10-11,,Navi Mumbai,Thane,Cash,431
+494,10:20,10-11,,Kolhapur,Solapur,UPI,205
+495,10:27,10-11,,Thane,Nashik,Credit Card,1235
+496,10:29,10-11,,Aurangabad,Pune,Google Pay,154
+497,10:09,10-11,,Mumbai,Kolhapur,Cash,1885
+498,10:10,10-11,,Solapur,Solapur,Credit Card,1369
+499,10:38,10-11,,Aurangabad,Nashik,Cash,1030
+500,10:42,10-11,,Thane,Nagpur,Credit Card,1896
+501,10:16,10-11,,Amravati,Navi Mumbai,Cash,420
+502,10:36,10-11,,Amravati,Amravati,Credit Card,248
+503,10:22,10-11,,Solapur,Kolhapur,Credit Card,919
+504,10:34,10-11,,Aurangabad,Mumbai,Credit Card,361
+505,10:34,10-11,,Kolhapur,Nashik,Google Pay,1561
+506,10:55,10-11,,Mumbai,Amravati,Cash,1294
+507,10:29,10-11,,Aurangabad,Navi Mumbai,Google Pay,499
+508,10:17,10-11,,Thane,Pune,Credit Card,1753
+509,10:53,10-11,,Thane,Nashik,Cash,1048
+510,10:11,10-11,,Mumbai,Pune,Cash,764
+511,10:26,10-11,,Pune,Amravati,Cash,1595
+512,10:08,10-11,,Thane,Nashik,UPI,1387
+513,10:45,10-11,,Pune,Nagpur,Cash,465
+514,10:31,10-11,,Pune,Aurangabad,UPI,1013
+515,10:54,10-11,,Solapur,Kolhapur,Cash,837
+516,10:12,10-11,,Kolhapur,Nashik,Cash,1481
+517,10:21,10-11,,Solapur,Aurangabad,Google Pay,853
+518,11:35,11-12,,Kolhapur,Amravati,UPI,569
+519,11:07,11-12,,Kolhapur,Nagpur,UPI,256
+520,11:12,11-12,,Nashik,Aurangabad,Google Pay,530
+521,11:09,11-12,,Navi Mumbai,Navi Mumbai,Google Pay,1897
+522,11:28,11-12,,Pune,Aurangabad,UPI,818
+523,11:10,11-12,,Solapur,Amravati,Cash,295
+524,11:45,11-12,,Solapur,Mumbai,Credit Card,1496
+525,11:39,11-12,,Nagpur,Amravati,Credit Card,782
+526,11:40,11-12,,Aurangabad,Mumbai,Cash,1325
+527,11:15,11-12,,Navi Mumbai,Aurangabad,Cash,1500
+528,11:44,11-12,,Nashik,Amravati,Cash,1055
+529,11:30,11-12,,Navi Mumbai,Aurangabad,Cash,1876
+530,11:40,11-12,,Solapur,Aurangabad,UPI,1127
+531,11:58,11-12,,Navi Mumbai,Solapur,UPI,915
+532,11:30,11-12,,Pune,Nagpur,UPI,1730
+533,11:18,11-12,,Nagpur,Aurangabad,Cash,220
+534,11:14,11-12,,Kolhapur,Thane,Cash,1892
+535,11:28,11-12,,Kolhapur,Aurangabad,Google Pay,335
+536,11:05,11-12,,Mumbai,Nagpur,Google Pay,347
+537,11:32,11-12,,Mumbai,Nashik,Credit Card,1548
+538,11:07,11-12,,Kolhapur,Pune,UPI,691
+539,11:54,11-12,,Thane,Solapur,Cash,834
+540,11:58,11-12,,Mumbai,Pune,Credit Card,302
+541,11:49,11-12,,Nagpur,Thane,Credit Card,1942
+542,11:48,11-12,,Kolhapur,Solapur,Cash,1257
+543,11:05,11-12,,Amravati,Mumbai,UPI,1134
+544,11:21,11-12,,Pune,Kolhapur,Credit Card,1807
+545,11:45,11-12,,Mumbai,Nashik,Google Pay,567
+546,11:11,11-12,,Solapur,Amravati,Credit Card,435
+547,11:46,11-12,,Amravati,Thane,Cash,892
+548,11:10,11-12,,Kolhapur,Pune,Cash,211
+549,11:12,11-12,,Solapur,Mumbai,Cash,1056
+550,11:33,11-12,,Nashik,Solapur,Google Pay,502
+551,11:08,11-12,,Amravati,Kolhapur,Cash,213
+552,11:55,11-12,,Amravati,Nagpur,Cash,1117
+553,12:32,12-13,12-13,Solapur,Solapur,UPI,1889
+554,12:21,12-13,12-13,Amravati,Solapur,Cash,1964
+555,12:02,12-13,12-13,Thane,Kolhapur,Google Pay,1859
+556,12:33,12-13,12-13,Thane,Nagpur,Cash,1676
+557,12:33,12-13,12-13,Thane,Solapur,Credit Card,1886
+558,12:30,12-13,12-13,Kolhapur,Amravati,Cash,1847
+559,12:29,12-13,12-13,Navi Mumbai,Thane,Cash,985
+560,12:38,12-13,12-13,Pune,Nashik,Cash,1011
+561,12:23,12-13,12-13,Mumbai,Amravati,Cash,972
+562,12:18,12-13,12-13,Mumbai,Nashik,UPI,218
+563,12:03,12-13,12-13,Thane,Aurangabad,Cash,1462
+564,12:37,12-13,12-13,Amravati,Aurangabad,Cash,789
+565,12:10,12-13,12-13,Aurangabad,Nagpur,Cash,1051
+566,12:58,12-13,12-13,Nagpur,Mumbai,Credit Card,226
+567,12:03,12-13,12-13,Pune,Navi Mumbai,Cash,1221
+568,12:16,12-13,12-13,Solapur,Thane,Cash,1632
+569,12:43,12-13,12-13,Solapur,Navi Mumbai,Credit Card,1089
+570,12:55,12-13,12-13,Nagpur,Nagpur,Cash,1947
+571,12:05,12-13,12-13,Thane,Nashik,Credit Card,1454
+572,12:56,12-13,12-13,Nashik,Aurangabad,Cash,666
+573,12:38,12-13,12-13,Nashik,Navi Mumbai,Google Pay,1066
+574,12:34,12-13,12-13,Amravati,Aurangabad,Google Pay,644
+575,12:23,12-13,12-13,Nagpur,Kolhapur,Credit Card,1516
+576,12:58,12-13,12-13,Amravati,Aurangabad,Credit Card,169
+577,12:39,12-13,12-13,Mumbai,Pune,UPI,814
+578,12:54,12-13,12-13,Navi Mumbai,Mumbai,Cash,1508
+579,12:50,12-13,12-13,Mumbai,Navi Mumbai,Cash,1999
+580,12:40,12-13,12-13,Mumbai,Aurangabad,UPI,1553
+581,12:05,12-13,12-13,Thane,Aurangabad,Cash,591
+582,12:19,12-13,12-13,Thane,Aurangabad,Cash,503
+583,12:21,12-13,12-13,Navi Mumbai,Pune,Cash,881
+584,12:50,12-13,12-13,Mumbai,Pune,Google Pay,148
+585,12:22,12-13,12-13,Pune,Nagpur,Cash,1305
+586,12:30,12-13,12-13,Pune,Navi Mumbai,Cash,1971
+587,12:09,12-13,12-13,Navi Mumbai,Nagpur,UPI,891
+588,12:26,12-13,12-13,Navi Mumbai,Thane,Google Pay,1427
+589,13:57,13-14,13-14,Aurangabad,Nashik,Cash,1957
+590,13:04,13-14,13-14,Thane,Thane,Cash,1281
+591,13:48,13-14,13-14,Solapur,Solapur,Cash,1467
+592,13:28,13-14,13-14,Thane,Thane,Google Pay,940
+593,13:19,13-14,13-14,Thane,Solapur,Cash,1678
+594,13:28,13-14,13-14,Thane,Mumbai,Cash,1042
+595,13:10,13-14,13-14,Navi Mumbai,Nagpur,Cash,351
+596,13:48,13-14,13-14,Mumbai,Nagpur,Credit Card,1861
+597,13:42,13-14,13-14,Nashik,Nagpur,Credit Card,554
+598,13:54,13-14,13-14,Aurangabad,Nashik,UPI,251
+599,13:08,13-14,13-14,Thane,Nashik,UPI,1843
+600,13:38,13-14,13-14,Mumbai,Solapur,Cash,635
+601,13:49,13-14,13-14,Aurangabad,Aurangabad,Cash,1210
+602,13:18,13-14,13-14,Mumbai,Nashik,Cash,1211
+603,13:08,13-14,13-14,Solapur,Mumbai,Cash,930
+604,13:15,13-14,13-14,Nashik,Aurangabad,Credit Card,324
+605,13:25,13-14,13-14,Mumbai,Mumbai,UPI,1268
+606,13:27,13-14,13-14,Mumbai,Amravati,UPI,917
+607,13:26,13-14,13-14,Aurangabad,Navi Mumbai,Google Pay,1334
+608,13:34,13-14,13-14,Amravati,Amravati,Cash,1026
+609,13:15,13-14,13-14,Nashik,Thane,Cash,1858
+610,13:23,13-14,13-14,Solapur,Amravati,Credit Card,410
+611,13:05,13-14,13-14,Navi Mumbai,Solapur,Google Pay,957
+612,13:18,13-14,13-14,Nashik,Aurangabad,Cash,1001
+613,13:30,13-14,13-14,Navi Mumbai,Nagpur,Credit Card,531
+614,13:02,13-14,13-14,Nagpur,Mumbai,Cash,1267
+615,13:43,13-14,13-14,Navi Mumbai,Nagpur,Cash,729
+616,13:18,13-14,13-14,Thane,Navi Mumbai,UPI,1633
+617,13:29,13-14,13-14,Pune,Pune,Credit Card,720
+618,13:43,13-14,13-14,Kolhapur,Nagpur,UPI,1877
+619,13:22,13-14,13-14,Thane,Mumbai,Cash,1334
+620,13:43,13-14,13-14,Aurangabad,Nashik,UPI,1552
+621,13:14,13-14,13-14,Pune,Nagpur,UPI,354
+622,13:51,13-14,13-14,Kolhapur,Amravati,Credit Card,1638
+623,13:43,13-14,13-14,Thane,Mumbai,Credit Card,317
+624,14:33,14-15,14-15,Kolhapur,Nagpur,Cash,140
+625,14:47,14-15,14-15,Aurangabad,Aurangabad,UPI,489
+626,14:52,14-15,14-15,Solapur,Amravati,UPI,1600
+627,14:24,14-15,14-15,Thane,Navi Mumbai,Google Pay,230
+628,14:10,14-15,14-15,Solapur,Nashik,UPI,976
+629,14:33,14-15,14-15,Kolhapur,Aurangabad,Credit Card,496
+630,14:00,14-15,14-15,Thane,Mumbai,UPI,518
+631,14:47,14-15,14-15,Navi Mumbai,Nashik,Cash,945
+632,14:34,14-15,14-15,Nashik,Thane,Google Pay,282
+633,14:27,14-15,14-15,Mumbai,Pune,Credit Card,674
+634,14:52,14-15,14-15,Nagpur,Kolhapur,Cash,970
+635,14:27,14-15,14-15,Nashik,Thane,Credit Card,1614
+636,14:22,14-15,14-15,Aurangabad,Mumbai,Cash,1026
+637,14:12,14-15,14-15,Pune,Solapur,Cash,1466
+638,14:45,14-15,14-15,Amravati,Kolhapur,UPI,969
+639,14:24,14-15,14-15,Aurangabad,Nashik,Google Pay,309
+640,14:22,14-15,14-15,Pune,Nagpur,UPI,1593
+641,14:11,14-15,14-15,Nashik,Thane,Cash,1637
+642,14:46,14-15,14-15,Aurangabad,Thane,Google Pay,1261
+643,14:45,14-15,14-15,Thane,Nagpur,Credit Card,1542
+644,14:30,14-15,14-15,Solapur,Amravati,UPI,1409
+645,14:10,14-15,14-15,Pune,Kolhapur,Credit Card,1355
+646,14:20,14-15,14-15,Mumbai,Navi Mumbai,Credit Card,637
+647,14:25,14-15,14-15,Nashik,Navi Mumbai,Credit Card,1286
+648,14:24,14-15,14-15,Aurangabad,Kolhapur,Cash,1275
+649,14:31,14-15,14-15,Kolhapur,Solapur,Credit Card,1382
+650,14:53,14-15,14-15,Amravati,Solapur,UPI,1148
+651,14:55,14-15,14-15,Mumbai,Nashik,Cash,275
+652,14:55,14-15,14-15,Pune,Navi Mumbai,Credit Card,857
+653,14:28,14-15,14-15,Kolhapur,Nashik,Google Pay,982
+654,14:38,14-15,14-15,Navi Mumbai,Navi Mumbai,UPI,1378
+655,14:20,14-15,14-15,Pune,Amravati,Google Pay,1036
+656,14:30,14-15,14-15,Solapur,Pune,Cash,1885
+657,14:21,14-15,14-15,Mumbai,Navi Mumbai,UPI,869
+658,14:40,14-15,14-15,Aurangabad,Thane,Credit Card,424
+659,14:11,14-15,14-15,Solapur,Amravati,Credit Card,1982
+660,15:47,15-16,15-16,Kolhapur,Solapur,UPI,1654
+661,15:27,15-16,15-16,Aurangabad,Nagpur,Cash,388
+662,15:19,15-16,15-16,Thane,Amravati,Google Pay,1922
+663,15:35,15-16,15-16,Mumbai,Nashik,Cash,1137
+664,15:39,15-16,15-16,Pune,Navi Mumbai,Google Pay,719
+665,15:36,15-16,15-16,Mumbai,Solapur,Credit Card,1878
+666,15:32,15-16,15-16,Kolhapur,Pune,Google Pay,988
+667,15:44,15-16,15-16,Mumbai,Navi Mumbai,Cash,1834
+668,15:20,15-16,15-16,Pune,Kolhapur,Google Pay,185
+669,15:16,15-16,15-16,Amravati,Amravati,UPI,1686
+670,15:22,15-16,15-16,Solapur,Mumbai,UPI,1031
+671,15:31,15-16,15-16,Kolhapur,Navi Mumbai,Cash,621
+672,15:48,15-16,15-16,Amravati,Navi Mumbai,Cash,565
+673,15:24,15-16,15-16,Amravati,Mumbai,UPI,1804
+674,15:26,15-16,15-16,Mumbai,Kolhapur,Cash,446
+675,15:13,15-16,15-16,Nashik,Solapur,UPI,732
+676,15:34,15-16,15-16,Aurangabad,Nashik,Cash,495
+677,15:53,15-16,15-16,Mumbai,Nagpur,Google Pay,566
+678,15:41,15-16,15-16,Mumbai,Kolhapur,Google Pay,123
+679,15:41,15-16,15-16,Kolhapur,Nagpur,Credit Card,1419
+680,15:33,15-16,15-16,Amravati,Pune,Google Pay,1995
+681,15:50,15-16,15-16,Thane,Thane,Cash,303
+682,15:45,15-16,15-16,Thane,Nashik,Google Pay,1808
+683,15:49,15-16,15-16,Kolhapur,Nashik,Cash,1483
+684,15:02,15-16,15-16,Aurangabad,Pune,UPI,843
+685,15:03,15-16,15-16,Nashik,Kolhapur,UPI,1445
+686,15:01,15-16,15-16,Pune,Aurangabad,Cash,741
+687,15:34,15-16,15-16,Thane,Nashik,UPI,870
+688,15:31,15-16,15-16,Solapur,Nagpur,Cash,1747
+689,15:47,15-16,15-16,Navi Mumbai,Thane,Cash,801
+690,15:27,15-16,15-16,Mumbai,Nagpur,Cash,1563
+691,15:52,15-16,15-16,Navi Mumbai,Aurangabad,Credit Card,1612
+692,15:54,15-16,15-16,Solapur,Kolhapur,Google Pay,189
+693,15:08,15-16,15-16,Solapur,Mumbai,Cash,1095
+694,15:38,15-16,15-16,Nagpur,Nashik,Credit Card,1148
+695,16:57,16-17,16-17,Thane,Pune,Google Pay,1157
+696,16:55,16-17,16-17,Nagpur,Pune,UPI,1463
+697,16:40,16-17,16-17,Thane,Amravati,Google Pay,259
+698,16:38,16-17,16-17,Kolhapur,Pune,Credit Card,841
+699,16:17,16-17,16-17,Amravati,Navi Mumbai,Google Pay,1058
+700,16:33,16-17,16-17,Aurangabad,Aurangabad,Credit Card,1490
+701,16:45,16-17,16-17,Nagpur,Pune,Cash,728
+702,16:09,16-17,16-17,Navi Mumbai,Pune,Cash,1875
+703,16:03,16-17,16-17,Solapur,Aurangabad,Cash,342
+704,16:19,16-17,16-17,Navi Mumbai,Nashik,Cash,1313
+705,16:56,16-17,16-17,Aurangabad,Solapur,Credit Card,1828
+706,16:06,16-17,16-17,Aurangabad,Nashik,Cash,1684
+707,16:50,16-17,16-17,Mumbai,Solapur,Google Pay,1023
+708,16:31,16-17,16-17,Nashik,Nagpur,UPI,905
+709,16:45,16-17,16-17,Solapur,Pune,Cash,777
+710,16:51,16-17,16-17,Nagpur,Kolhapur,Cash,1104
+711,16:37,16-17,16-17,Nagpur,Mumbai,Cash,1060
+712,16:56,16-17,16-17,Mumbai,Navi Mumbai,Cash,1462
+713,16:12,16-17,16-17,Pune,Mumbai,Cash,1757
+714,16:01,16-17,16-17,Amravati,Thane,Credit Card,213
+715,16:00,16-17,16-17,Mumbai,Amravati,Credit Card,1725
+716,16:04,16-17,16-17,Aurangabad,Aurangabad,Credit Card,539
+717,16:50,16-17,16-17,Thane,Nashik,Credit Card,1273
+718,16:19,16-17,16-17,Mumbai,Navi Mumbai,UPI,645
+719,16:30,16-17,16-17,Solapur,Solapur,Cash,787
+720,16:46,16-17,16-17,Nashik,Kolhapur,UPI,368
+721,16:07,16-17,16-17,Solapur,Kolhapur,Google Pay,552
+722,16:02,16-17,16-17,Mumbai,Nagpur,Credit Card,751
+723,16:58,16-17,16-17,Nashik,Nashik,Cash,1291
+724,16:06,16-17,16-17,Navi Mumbai,Kolhapur,Credit Card,565
+725,16:19,16-17,16-17,Navi Mumbai,Navi Mumbai,Cash,731
+726,16:38,16-17,16-17,Nashik,Pune,Cash,287
+727,16:01,16-17,16-17,Solapur,Amravati,Credit Card,1165
+728,16:24,16-17,16-17,Amravati,Solapur,Google Pay,476
+729,16:57,16-17,16-17,Pune,Pune,Credit Card,1596
+730,16:11,16-17,16-17,Kolhapur,Pune,Google Pay,1385
+731,16:35,16-17,16-17,Nashik,Solapur,Cash,931
+732,16:59,16-17,16-17,Aurangabad,Amravati,Cash,1143
+733,16:57,16-17,16-17,Kolhapur,Navi Mumbai,Credit Card,1323
+734,16:13,16-17,16-17,Amravati,Nagpur,Google Pay,1093
+735,16:53,16-17,16-17,Navi Mumbai,Navi Mumbai,UPI,1474
+736,16:32,16-17,16-17,Kolhapur,Kolhapur,Credit Card,1185
+737,16:06,16-17,16-17,Nagpur,Navi Mumbai,Cash,1870
+738,16:09,16-17,16-17,Solapur,Pune,Google Pay,1786
+739,16:53,16-17,16-17,Thane,Solapur,UPI,1769
+740,16:33,16-17,16-17,Amravati,Aurangabad,Google Pay,1331
+741,16:38,16-17,16-17,Thane,Nashik,Cash,727
+742,16:50,16-17,16-17,Kolhapur,Aurangabad,Cash,731
+743,16:29,16-17,16-17,Aurangabad,Navi Mumbai,Credit Card,163
+744,16:44,16-17,16-17,Thane,Pune,Cash,693
+745,16:55,16-17,16-17,Aurangabad,Mumbai,Credit Card,404
+746,16:35,16-17,16-17,Pune,Amravati,Google Pay,1672
+747,17:49,17-18,17-18,Kolhapur,Thane,UPI,1479
+748,17:39,17-18,17-18,Solapur,Mumbai,Cash,1345
+749,17:23,17-18,17-18,Navi Mumbai,Solapur,Google Pay,1764
+750,17:31,17-18,17-18,Nagpur,Aurangabad,Cash,1481
+751,17:38,17-18,17-18,Pune,Pune,UPI,201
+752,17:11,17-18,17-18,Navi Mumbai,Mumbai,UPI,117
+753,17:44,17-18,17-18,Thane,Amravati,Cash,1199
+754,17:27,17-18,17-18,Solapur,Navi Mumbai,Cash,812
+755,17:33,17-18,17-18,Nagpur,Pune,Cash,1452
+756,17:32,17-18,17-18,Kolhapur,Mumbai,UPI,1346
+757,17:42,17-18,17-18,Solapur,Amravati,Cash,1309
+758,17:38,17-18,17-18,Thane,Thane,Google Pay,1624
+759,17:10,17-18,17-18,Mumbai,Navi Mumbai,Google Pay,1431
+760,17:38,17-18,17-18,Thane,Solapur,Cash,1531
+761,17:44,17-18,17-18,Aurangabad,Nashik,UPI,1198
+762,17:16,17-18,17-18,Amravati,Navi Mumbai,Cash,978
+763,17:45,17-18,17-18,Amravati,Amravati,Cash,523
+764,17:30,17-18,17-18,Amravati,Navi Mumbai,Google Pay,1956
+765,17:03,17-18,17-18,Navi Mumbai,Thane,Cash,805
+766,17:44,17-18,17-18,Aurangabad,Kolhapur,Google Pay,1887
+767,17:35,17-18,17-18,Thane,Nagpur,Cash,1519
+768,17:52,17-18,17-18,Amravati,Nashik,UPI,921
+769,17:43,17-18,17-18,Amravati,Navi Mumbai,Credit Card,794
+770,17:22,17-18,17-18,Nashik,Nashik,Cash,1106
+771,17:54,17-18,17-18,Nashik,Pune,Cash,1836
+772,17:30,17-18,17-18,Mumbai,Thane,Cash,702
+773,17:39,17-18,17-18,Navi Mumbai,Navi Mumbai,Cash,274
+774,17:04,17-18,17-18,Pune,Kolhapur,UPI,1684
+775,17:18,17-18,17-18,Pune,Kolhapur,Cash,1508
+776,17:48,17-18,17-18,Nagpur,Kolhapur,UPI,1042
+777,17:21,17-18,17-18,Nagpur,Amravati,Google Pay,152
+778,17:47,17-18,17-18,Navi Mumbai,Kolhapur,Cash,583
+779,17:04,17-18,17-18,Kolhapur,Nashik,Google Pay,1172
+780,17:00,17-18,17-18,Kolhapur,Thane,Cash,1793
+781,17:45,17-18,17-18,Pune,Nagpur,Credit Card,1218
+782,17:54,17-18,17-18,Mumbai,Amravati,Cash,1701
+783,17:48,17-18,17-18,Nashik,Amravati,UPI,1777
+784,17:35,17-18,17-18,Solapur,Thane,Cash,257
+785,17:36,17-18,17-18,Mumbai,Solapur,Cash,182
+786,17:38,17-18,17-18,Mumbai,Solapur,Credit Card,1350
+787,17:26,17-18,17-18,Pune,Aurangabad,Cash,1012
+788,17:52,17-18,17-18,Kolhapur,Mumbai,Cash,551
+789,17:28,17-18,17-18,Nashik,Solapur,UPI,1949
+790,17:05,17-18,17-18,Thane,Mumbai,Cash,1409
+791,17:42,17-18,17-18,Solapur,Amravati,Cash,551
+792,17:52,17-18,17-18,Thane,Mumbai,Cash,1251
+793,17:06,17-18,17-18,Nashik,Amravati,UPI,372
+794,17:42,17-18,17-18,Kolhapur,Mumbai,UPI,1814
+795,17:02,17-18,17-18,Mumbai,Thane,Credit Card,1206
+796,17:53,17-18,17-18,Amravati,Nashik,UPI,1401
+797,17:00,17-18,17-18,Navi Mumbai,Solapur,Cash,171
+798,17:40,17-18,17-18,Mumbai,Amravati,Credit Card,135
+799,17:16,17-18,17-18,Kolhapur,Navi Mumbai,Credit Card,1833
+800,17:27,17-18,17-18,Navi Mumbai,Navi Mumbai,Google Pay,1301
+801,17:41,17-18,17-18,Solapur,Mumbai,Cash,1659
+802,17:52,17-18,17-18,Nashik,Nagpur,Cash,800
+803,17:26,17-18,17-18,Nashik,Navi Mumbai,Cash,675
+804,17:24,17-18,17-18,Mumbai,Nagpur,Credit Card,229
+805,17:59,17-18,17-18,Thane,Navi Mumbai,Cash,171
+806,17:13,17-18,17-18,Pune,Solapur,Google Pay,1426
+807,17:51,17-18,17-18,Kolhapur,Mumbai,Cash,1049
+808,17:33,17-18,17-18,Nagpur,Pune,Cash,1625
+809,17:07,17-18,17-18,Thane,Navi Mumbai,Cash,1951
+810,18:46,18-19,18-19,Thane,Mumbai,Cash,282
+811,18:30,18-19,18-19,Nashik,Solapur,Google Pay,518
+812,18:25,18-19,18-19,Aurangabad,Nashik,Credit Card,606
+813,18:36,18-19,18-19,Thane,Amravati,UPI,1711
+814,18:21,18-19,18-19,Mumbai,Nashik,Cash,1301
+815,18:46,18-19,18-19,Pune,Thane,Credit Card,1484
+816,18:02,18-19,18-19,Thane,Thane,Google Pay,1182
+817,18:59,18-19,18-19,Thane,Kolhapur,Google Pay,1938
+818,18:22,18-19,18-19,Amravati,Pune,Google Pay,740
+819,18:50,18-19,18-19,Nagpur,Mumbai,UPI,1195
+820,18:53,18-19,18-19,Pune,Nagpur,UPI,1220
+821,18:09,18-19,18-19,Thane,Pune,Google Pay,1764
+822,18:27,18-19,18-19,Nagpur,Thane,Cash,436
+823,18:07,18-19,18-19,Navi Mumbai,Nagpur,Credit Card,966
+824,18:06,18-19,18-19,Nagpur,Thane,Credit Card,796
+825,18:32,18-19,18-19,Solapur,Mumbai,Cash,1979
+826,18:20,18-19,18-19,Nagpur,Kolhapur,Cash,1247
+827,18:43,18-19,18-19,Nashik,Amravati,UPI,262
+828,18:58,18-19,18-19,Aurangabad,Thane,Cash,334
+829,18:17,18-19,18-19,Mumbai,Navi Mumbai,Credit Card,916
+830,18:55,18-19,18-19,Aurangabad,Mumbai,Credit Card,245
+831,18:10,18-19,18-19,Nagpur,Kolhapur,UPI,1749
+832,18:58,18-19,18-19,Kolhapur,Thane,UPI,1775
+833,18:42,18-19,18-19,Solapur,Nashik,Credit Card,1795
+834,18:44,18-19,18-19,Mumbai,Mumbai,Credit Card,399
+835,18:56,18-19,18-19,Navi Mumbai,Kolhapur,Cash,1052
+836,18:19,18-19,18-19,Navi Mumbai,Mumbai,Cash,340
+837,18:57,18-19,18-19,Mumbai,Amravati,Cash,1650
+838,18:53,18-19,18-19,Kolhapur,Pune,UPI,1162
+839,18:55,18-19,18-19,Nagpur,Thane,Credit Card,719
+840,18:59,18-19,18-19,Aurangabad,Nagpur,Cash,381
+841,18:21,18-19,18-19,Pune,Thane,Credit Card,1429
+842,18:13,18-19,18-19,Navi Mumbai,Aurangabad,Cash,608
+843,18:34,18-19,18-19,Kolhapur,Pune,Cash,1808
+844,18:43,18-19,18-19,Nashik,Pune,Google Pay,239
+845,18:54,18-19,18-19,Nashik,Nashik,Google Pay,1374
+846,18:27,18-19,18-19,Kolhapur,Amravati,Cash,1756
+847,18:34,18-19,18-19,Solapur,Nagpur,Google Pay,392
+848,18:54,18-19,18-19,Mumbai,Amravati,Cash,470
+849,18:19,18-19,18-19,Navi Mumbai,Solapur,Credit Card,262
+850,18:40,18-19,18-19,Amravati,Solapur,Cash,1530
+851,18:57,18-19,18-19,Amravati,Pune,Google Pay,693
+852,18:43,18-19,18-19,Amravati,Kolhapur,Credit Card,835
+853,18:57,18-19,18-19,Navi Mumbai,Nagpur,Google Pay,714
+854,18:05,18-19,18-19,Solapur,Mumbai,Google Pay,1209
+855,18:02,18-19,18-19,Mumbai,Nagpur,UPI,784
+856,18:24,18-19,18-19,Thane,Thane,Credit Card,578
+857,18:00,18-19,18-19,Mumbai,Thane,Google Pay,1745
+858,18:40,18-19,18-19,Solapur,Thane,Credit Card,161
+859,18:04,18-19,18-19,Mumbai,Amravati,Cash,1272
+860,18:20,18-19,18-19,Aurangabad,Nashik,Cash,1464
+861,18:19,18-19,18-19,Thane,Solapur,Google Pay,444
+862,18:33,18-19,18-19,Mumbai,Nagpur,Google Pay,984
+863,18:24,18-19,18-19,Nagpur,Aurangabad,Cash,1725
+864,18:50,18-19,18-19,Kolhapur,Nagpur,Google Pay,1513
+865,18:33,18-19,18-19,Aurangabad,Nashik,Google Pay,699
+866,18:21,18-19,18-19,Kolhapur,Mumbai,Cash,1545
+867,18:03,18-19,18-19,Nashik,Aurangabad,UPI,626
+868,18:25,18-19,18-19,Mumbai,Mumbai,UPI,1542
+869,18:37,18-19,18-19,Kolhapur,Navi Mumbai,Google Pay,780
+870,18:32,18-19,18-19,Nashik,Mumbai,Cash,1427
+871,18:30,18-19,18-19,Kolhapur,Navi Mumbai,Google Pay,736
+872,18:33,18-19,18-19,Kolhapur,Nashik,Cash,1116
+873,18:00,18-19,18-19,Thane,Mumbai,Cash,372
+874,18:46,18-19,18-19,Nashik,Mumbai,Credit Card,592
+875,18:52,18-19,18-19,Thane,Pune,Google Pay,1093
+876,18:35,18-19,18-19,Pune,Mumbai,Credit Card,1748
+877,18:13,18-19,18-19,Kolhapur,Kolhapur,Credit Card,1710
+878,18:15,18-19,18-19,Solapur,Aurangabad,Cash,1439
+879,18:26,18-19,18-19,Aurangabad,Pune,UPI,861
+880,18:07,18-19,18-19,Kolhapur,Mumbai,Google Pay,109
+881,18:08,18-19,18-19,Nagpur,Nashik,UPI,475
+882,18:01,18-19,18-19,Solapur,Nagpur,UPI,1074
+883,18:20,18-19,18-19,Solapur,Mumbai,Google Pay,621
+884,18:34,18-19,18-19,Thane,Amravati,Credit Card,832
+885,18:12,18-19,18-19,Thane,Thane,UPI,180
+886,18:04,18-19,18-19,Amravati,Kolhapur,Cash,1281
+887,18:21,18-19,18-19,Navi Mumbai,Pune,Cash,654
+888,18:31,18-19,18-19,Navi Mumbai,Mumbai,Google Pay,1121
+889,18:12,18-19,18-19,Navi Mumbai,Thane,Credit Card,1785
+890,18:13,18-19,18-19,Amravati,Amravati,Credit Card,753
+891,18:32,18-19,18-19,Solapur,Nashik,Cash,1501
+892,19:42,19-20,19-20,Pune,Solapur,Credit Card,1239
+893,19:16,19-20,19-20,Pune,Navi Mumbai,UPI,1054
+894,19:13,19-20,19-20,Thane,Pune,Cash,1739
+895,19:47,19-20,19-20,Thane,Kolhapur,UPI,1020
+896,19:07,19-20,19-20,Navi Mumbai,Kolhapur,UPI,1575
+897,19:22,19-20,19-20,Mumbai,Thane,UPI,324
+898,19:18,19-20,19-20,Navi Mumbai,Solapur,UPI,1561
+899,19:37,19-20,19-20,Nagpur,Aurangabad,Cash,1242
+900,19:52,19-20,19-20,Amravati,Nashik,Credit Card,1333
+901,19:55,19-20,19-20,Amravati,Nagpur,Credit Card,839
+902,19:40,19-20,19-20,Pune,Kolhapur,Google Pay,761
+903,19:10,19-20,19-20,Navi Mumbai,Mumbai,Cash,1806
+904,19:00,19-20,19-20,Solapur,Mumbai,Cash,1851
+905,19:07,19-20,19-20,Solapur,Kolhapur,Google Pay,1085
+906,19:00,19-20,19-20,Navi Mumbai,Navi Mumbai,Google Pay,1013
+907,19:41,19-20,19-20,Nagpur,Aurangabad,Cash,728
+908,19:35,19-20,19-20,Amravati,Amravati,Google Pay,1045
+909,19:46,19-20,19-20,Thane,Amravati,UPI,872
+910,19:23,19-20,19-20,Kolhapur,Thane,Cash,1227
+911,19:24,19-20,19-20,Aurangabad,Kolhapur,Cash,1879
+912,19:46,19-20,19-20,Thane,Thane,Cash,1347
+913,19:32,19-20,19-20,Pune,Aurangabad,Cash,1264
+914,19:59,19-20,19-20,Thane,Nashik,Cash,117
+915,19:33,19-20,19-20,Mumbai,Amravati,UPI,1456
+916,19:48,19-20,19-20,Navi Mumbai,Pune,Cash,733
+917,19:06,19-20,19-20,Navi Mumbai,Navi Mumbai,Cash,1055
+918,19:27,19-20,19-20,Mumbai,Thane,Google Pay,1484
+919,19:38,19-20,19-20,Navi Mumbai,Nashik,Google Pay,777
+920,19:26,19-20,19-20,Navi Mumbai,Solapur,Cash,1043
+921,19:14,19-20,19-20,Solapur,Pune,Google Pay,1003
+922,19:40,19-20,19-20,Solapur,Nagpur,UPI,755
+923,19:46,19-20,19-20,Nagpur,Kolhapur,Google Pay,950
+924,19:44,19-20,19-20,Solapur,Kolhapur,UPI,1711
+925,19:15,19-20,19-20,Aurangabad,Aurangabad,Credit Card,1627
+926,19:27,19-20,19-20,Thane,Kolhapur,UPI,817
+927,19:30,19-20,19-20,Amravati,Aurangabad,Cash,1596
+928,19:06,19-20,19-20,Nagpur,Navi Mumbai,Google Pay,505
+929,19:31,19-20,19-20,Thane,Navi Mumbai,Credit Card,403
+930,19:26,19-20,19-20,Mumbai,Mumbai,Cash,173
+931,19:31,19-20,19-20,Solapur,Nagpur,Cash,1356
+932,19:58,19-20,19-20,Nashik,Nagpur,Credit Card,239
+933,19:20,19-20,19-20,Amravati,Thane,Cash,209
+934,19:01,19-20,19-20,Nagpur,Solapur,Cash,1366
+935,19:19,19-20,19-20,Solapur,Aurangabad,Credit Card,1639
+936,19:46,19-20,19-20,Nashik,Pune,Credit Card,1350
+937,19:49,19-20,19-20,Thane,Nashik,Google Pay,1855
+938,19:44,19-20,19-20,Thane,Mumbai,Google Pay,1569
+939,19:06,19-20,19-20,Solapur,Aurangabad,Credit Card,337
+940,19:07,19-20,19-20,Kolhapur,Aurangabad,Credit Card,566
+941,19:46,19-20,19-20,Navi Mumbai,Nashik,Google Pay,1329
+942,19:01,19-20,19-20,Solapur,Aurangabad,Credit Card,314
+943,19:12,19-20,19-20,Mumbai,Mumbai,Credit Card,1349
+944,19:24,19-20,19-20,Kolhapur,Nashik,Cash,319
+945,19:10,19-20,19-20,Solapur,Amravati,Credit Card,661
+946,19:33,19-20,19-20,Aurangabad,Nashik,Google Pay,578
+947,19:57,19-20,19-20,Navi Mumbai,Kolhapur,Google Pay,1612
+948,19:51,19-20,19-20,Navi Mumbai,Aurangabad,Credit Card,1588
+949,19:37,19-20,19-20,Solapur,Kolhapur,UPI,1462
+950,19:51,19-20,19-20,Navi Mumbai,Nashik,Credit Card,1405
+951,19:06,19-20,19-20,Nagpur,Navi Mumbai,Cash,161
+952,19:55,19-20,19-20,Kolhapur,Amravati,Cash,1245
+953,19:18,19-20,19-20,Nagpur,Pune,Cash,724
+954,19:55,19-20,19-20,Amravati,Nagpur,Credit Card,113
+955,19:13,19-20,19-20,Pune,Amravati,UPI,1472
+956,19:12,19-20,19-20,Pune,Pune,UPI,1001
+957,19:59,19-20,19-20,Solapur,Mumbai,Cash,936
+958,19:40,19-20,19-20,Nagpur,Pune,Cash,837
+959,19:49,19-20,19-20,Mumbai,Nagpur,Cash,1093
+960,19:02,19-20,19-20,Aurangabad,Aurangabad,UPI,906
+961,19:02,19-20,19-20,Aurangabad,Mumbai,Credit Card,443
+962,19:46,19-20,19-20,Pune,Thane,UPI,130
+963,19:28,19-20,19-20,Navi Mumbai,Nagpur,Cash,765
+964,19:28,19-20,19-20,Thane,Nashik,Cash,524
+965,20:57,20-21,20-21,Nagpur,Amravati,Google Pay,1441
+966,20:02,20-21,20-21,Mumbai,Mumbai,Google Pay,1042
+967,20:37,20-21,20-21,Mumbai,Aurangabad,Credit Card,881
+968,20:24,20-21,20-21,Mumbai,Kolhapur,Credit Card,563
+969,20:50,20-21,20-21,Mumbai,Mumbai,Google Pay,1585
+970,20:00,20-21,20-21,Nashik,Amravati,Credit Card,100
+971,20:54,20-21,20-21,Navi Mumbai,Aurangabad,Credit Card,563
+972,20:27,20-21,20-21,Kolhapur,Nagpur,Google Pay,619
+973,20:41,20-21,20-21,Pune,Mumbai,Credit Card,917
+974,20:02,20-21,20-21,Kolhapur,Nashik,Credit Card,1325
+975,20:40,20-21,20-21,Thane,Nagpur,UPI,253
+976,20:29,20-21,20-21,Navi Mumbai,Amravati,Credit Card,169
+977,20:42,20-21,20-21,Aurangabad,Solapur,Cash,1874
+978,20:24,20-21,20-21,Thane,Nashik,Credit Card,1781
+979,20:55,20-21,20-21,Thane,Aurangabad,Google Pay,755
+980,20:31,20-21,20-21,Thane,Nagpur,UPI,1112
+981,20:05,20-21,20-21,Nashik,Nagpur,Cash,1031
+982,20:45,20-21,20-21,Navi Mumbai,Navi Mumbai,UPI,223
+983,20:03,20-21,20-21,Aurangabad,Mumbai,Google Pay,291
+984,20:34,20-21,20-21,Navi Mumbai,Mumbai,Google Pay,679
+985,20:18,20-21,20-21,Amravati,Nashik,Credit Card,437
+986,20:56,20-21,20-21,Nagpur,Mumbai,Google Pay,819
+987,20:20,20-21,20-21,Nashik,Navi Mumbai,UPI,319
+988,20:52,20-21,20-21,Thane,Solapur,UPI,1555
+989,20:46,20-21,20-21,Amravati,Navi Mumbai,UPI,744
+990,20:05,20-21,20-21,Nagpur,Nashik,Cash,1996
+991,20:57,20-21,20-21,Kolhapur,Pune,Cash,745
+992,20:04,20-21,20-21,Aurangabad,Navi Mumbai,Credit Card,965
+993,20:35,20-21,20-21,Aurangabad,Aurangabad,Cash,1589
+994,20:55,20-21,20-21,Nashik,Pune,Cash,1514
+995,20:02,20-21,20-21,Nagpur,Solapur,Cash,951
+996,20:31,20-21,20-21,Mumbai,Mumbai,Google Pay,249
+997,20:19,20-21,20-21,Navi Mumbai,Navi Mumbai,Cash,1886
+998,20:10,20-21,20-21,Nashik,Navi Mumbai,Cash,650
+999,20:12,20-21,20-21,Nagpur,Kolhapur,UPI,632
+1000,21:53,21-22,21-22,Navi Mumbai,Nashik,Cash,752
+1001,21:07,21-22,21-22,Aurangabad,Thane,Google Pay,1398
+1002,21:38,21-22,21-22,Nashik,Nagpur,Cash,816
+1003,21:32,21-22,21-22,Amravati,Navi Mumbai,Cash,248
+1004,21:06,21-22,21-22,Mumbai,Nashik,Cash,437
+1005,21:28,21-22,21-22,Pune,Thane,Cash,922
+1006,21:19,21-22,21-22,Solapur,Mumbai,Credit Card,504
+1007,21:38,21-22,21-22,Thane,Pune,Credit Card,1631
+1008,21:20,21-22,21-22,Pune,Kolhapur,Cash,1083
+1009,21:47,21-22,21-22,Mumbai,Mumbai,UPI,1744
+1010,21:19,21-22,21-22,Aurangabad,Solapur,UPI,637
+1011,21:56,21-22,21-22,Pune,Nashik,Cash,222
+1012,21:51,21-22,21-22,Kolhapur,Navi Mumbai,UPI,1335
+1013,21:24,21-22,21-22,Solapur,Aurangabad,Google Pay,673
+1014,21:56,21-22,21-22,Kolhapur,Solapur,Google Pay,385
+1015,21:29,21-22,21-22,Amravati,Pune,Credit Card,1084
+1016,21:49,21-22,21-22,Mumbai,Nagpur,Google Pay,104
+1017,21:28,21-22,21-22,Mumbai,Thane,Cash,1341
+1018,21:45,21-22,21-22,Mumbai,Nashik,UPI,577
+1019,21:06,21-22,21-22,Solapur,Nashik,Cash,1838
+1020,21:31,21-22,21-22,Navi Mumbai,Amravati,Cash,1335
+1021,21:32,21-22,21-22,Solapur,Thane,Cash,1509
+1022,21:00,21-22,21-22,Solapur,Navi Mumbai,Cash,842
+1023,21:39,21-22,21-22,Navi Mumbai,Nagpur,Credit Card,601
+1024,21:44,21-22,21-22,Thane,Solapur,Cash,1864
+1025,21:59,21-22,21-22,Nashik,Thane,Cash,1325
+1026,21:06,21-22,21-22,Aurangabad,Kolhapur,UPI,1071
+1027,21:18,21-22,21-22,Nagpur,Navi Mumbai,Cash,351
+1028,21:31,21-22,21-22,Aurangabad,Thane,Google Pay,1586
+1029,21:53,21-22,21-22,Nashik,Nashik,Cash,429
+1030,21:01,21-22,21-22,Solapur,Nagpur,Cash,246
+1031,21:51,21-22,21-22,Nashik,Solapur,Cash,1107
+1032,21:19,21-22,21-22,Kolhapur,Solapur,Google Pay,915
+1033,21:16,21-22,21-22,Nashik,Solapur,Credit Card,1231
+1034,21:37,21-22,21-22,Thane,Amravati,Cash,1500
+1035,21:24,21-22,21-22,Navi Mumbai,Pune,Cash,1228
+1036,22:07,22-23,22-23,Kolhapur,Kolhapur,Cash,1098
+1037,22:33,22-23,22-23,Mumbai,Mumbai,Cash,923
+1038,22:11,22-23,22-23,Thane,Navi Mumbai,Cash,1624
+1039,22:08,22-23,22-23,Mumbai,Amravati,Cash,249
+1040,22:01,22-23,22-23,Thane,Thane,Credit Card,290
+1041,22:09,22-23,22-23,Pune,Thane,UPI,851
+1042,22:23,22-23,22-23,Amravati,Thane,UPI,134
+1043,22:35,22-23,22-23,Pune,Navi Mumbai,Google Pay,1596
+1044,22:34,22-23,22-23,Nashik,Amravati,Cash,140
+1045,22:27,22-23,22-23,Nashik,Navi Mumbai,Cash,1604
+1046,22:32,22-23,22-23,Aurangabad,Nagpur,Google Pay,1662
+1047,22:14,22-23,22-23,Pune,Navi Mumbai,Credit Card,273
+1048,22:12,22-23,22-23,Mumbai,Nagpur,UPI,656
+1049,22:41,22-23,22-23,Aurangabad,Pune,Cash,1808
+1050,22:42,22-23,22-23,Solapur,Kolhapur,Cash,1822
+1051,22:12,22-23,22-23,Nashik,Nagpur,Cash,539
+1052,22:34,22-23,22-23,Mumbai,Solapur,Cash,552
+1053,22:27,22-23,22-23,Mumbai,Solapur,Cash,916
+1054,22:31,22-23,22-23,Solapur,Mumbai,UPI,1630
+1055,22:19,22-23,22-23,Solapur,Aurangabad,UPI,1346
+1056,22:24,22-23,22-23,Aurangabad,Thane,Credit Card,356
+1057,22:24,22-23,22-23,Pune,Nagpur,Cash,1276
+1058,22:47,22-23,22-23,Nashik,Nashik,Cash,1079
+1059,22:43,22-23,22-23,Solapur,Thane,Credit Card,813
+1060,22:20,22-23,22-23,Kolhapur,Nashik,Cash,1532
+1061,22:25,22-23,22-23,Mumbai,Aurangabad,Cash,1678
+1062,22:39,22-23,22-23,Nagpur,Navi Mumbai,Cash,253
+1063,22:49,22-23,22-23,Solapur,Nashik,UPI,358
+1064,22:32,22-23,22-23,Navi Mumbai,Nagpur,Cash,419
+1065,22:02,22-23,22-23,Thane,Pune,Cash,1080
+1066,22:19,22-23,22-23,Navi Mumbai,Nagpur,Credit Card,1436
+1067,22:24,22-23,22-23,Amravati,Nagpur,Google Pay,1195
+1068,22:30,22-23,22-23,Pune,Thane,Cash,1251
+1069,22:08,22-23,22-23,Kolhapur,Pune,Credit Card,250
+1070,22:53,22-23,22-23,Mumbai,Solapur,Credit Card,226
+1071,23:49,23-24,23-24,Aurangabad,Aurangabad,Credit Card,869
+1072,23:56,23-24,23-24,Mumbai,Aurangabad,Credit Card,875
+1073,23:36,23-24,23-24,Mumbai,Nashik,Cash,1068
+1074,23:07,23-24,23-24,Pune,Pune,Cash,762
+1075,23:59,23-24,23-24,Thane,Navi Mumbai,UPI,332
+1076,23:22,23-24,23-24,Mumbai,Aurangabad,Cash,343
+1077,23:18,23-24,23-24,Solapur,Pune,Google Pay,128
+1078,23:45,23-24,23-24,Nagpur,Amravati,UPI,1866
+1079,23:42,23-24,23-24,Solapur,Pune,Google Pay,223
+1080,23:38,23-24,23-24,Navi Mumbai,Amravati,Cash,933
+1081,23:42,23-24,23-24,Mumbai,Amravati,Credit Card,623
+1082,23:06,23-24,23-24,Nagpur,Navi Mumbai,Credit Card,930
+1083,23:59,23-24,23-24,Pune,Aurangabad,UPI,1330
+1084,23:48,23-24,23-24,Mumbai,Solapur,Google Pay,775
+1085,23:17,23-24,23-24,Solapur,Solapur,Credit Card,1235
+1086,23:57,23-24,23-24,Nagpur,Nashik,UPI,357
+1087,23:08,23-24,23-24,Pune,Kolhapur,UPI,481
+1088,23:45,23-24,23-24,Navi Mumbai,Mumbai,Cash,611
+1089,23:56,23-24,23-24,Amravati,Solapur,Credit Card,966
+1090,23:24,23-24,23-24,Amravati,Kolhapur,Google Pay,1747
+1091,23:19,23-24,23-24,Amravati,Nashik,Google Pay,1138
+1092,23:59,23-24,23-24,Solapur,Pune,UPI,383
+1093,23:21,23-24,23-24,Thane,Thane,Google Pay,1909
+1094,23:47,23-24,23-24,Solapur,Kolhapur,Credit Card,1397
+1095,23:11,23-24,23-24,Nashik,Aurangabad,Cash,502
+1096,23:55,23-24,23-24,Solapur,Aurangabad,Cash,524
+1097,23:13,23-24,23-24,Aurangabad,Nashik,Credit Card,1608
+1098,23:47,23-24,23-24,Nashik,Solapur,UPI,1487
+1099,23:36,23-24,23-24,Pune,Nashik,Google Pay,446
+1100,23:34,23-24,23-24,Nagpur,Solapur,Cash,1590
+1101,23:54,23-24,23-24,Amravati,Solapur,Cash,1911
+1102,23:48,23-24,23-24,Nashik,Nashik,Cash,544
+1103,23:44,23-24,23-24,Thane,Amravati,UPI,420
+1104,23:37,23-24,23-24,Aurangabad,Kolhapur,Cash,1678
+1105,23:11,23-24,23-24,Aurangabad,Amravati,Cash,1922
+1106,23:18,23-24,23-24,Nagpur,Nagpur,Cash,1632
