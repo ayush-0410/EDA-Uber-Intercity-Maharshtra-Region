@@ -22,9 +22,9 @@ This project performs **Exploratory Data Analysis (EDA)** on an Uber rides datas
 
 ### 📈 **Key Findings**  
 📌 The **most commonly used payment method** is UPI, followed by Cash and Credit Card.  
-📌 The **most popular travel route** is between `City X → City Y`.  
-📌 **Cash payments** are highest in `City Z`.  
-📌 **Most Uber rides** originate from `City A`.  
+📌 The **most popular travel route** is between `Thane → Nashik`.  
+📌 **Cash payments** are highest in `Navi Mumbai`.  
+📌 **Most Uber rides** originate from `Mumbai`.  
 
 ---
 
